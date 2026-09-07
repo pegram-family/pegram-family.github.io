@@ -1,0 +1,7 @@
+# The Pegram Family Album - a preserved archive, last updated June 2010.
+# Everything here is meant to be found. Please index it.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://pegram-family.github.io/sitemap.xml
