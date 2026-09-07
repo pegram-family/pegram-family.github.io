@@ -1,0 +1,2 @@
+# Preserve every byte exactly as it came out of S3.
+* -text

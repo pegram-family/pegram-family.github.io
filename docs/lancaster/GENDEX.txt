@@ -1,0 +1,240 @@
+d85.htm#P74||Agnes //|1749|NC|||
+d169.htm#P88||Ann //|1708|Virginia|||
+d153.htm#P163||Ann //||Virginia|AFT 4 APR 1754||
+d12.htm#P32||Elizabeth //||Edgecombe Co., NC|||
+d3.htm#P112||Elizabeth //|1736|Surry Co., VA|||
+d179.htm#P181||Elizabeth //|1720|Virginia|BEF 17 NOV 1771||
+d45.htm#P54||IBELL //|||||
+d71.htm#P142||Mary //|1739||AFT 31 DEC 1793|Bertie Co., NC|
+d170.htm#P149||Mary //|1721|Surry Co., VA|||
+d45.htm#P53||Mrs //|||||
+d158.htm#P191||Mrs //||Edgecombe Co., NC|||
+d46.htm#P209||Mrs //||Edgecombe Co., NC|||
+d91.htm#P123||Nancy //|1757|NC|||
+d56.htm#P59||Sally //|||||
+d22.htm#P23||Sarah //|1668|Virginia|AFT 31 OCT 1722|Surry Co., VA|
+d214.htm#P225|ANDREWS|Eliza B. /ANDREWS/||Warren Co., NC|||
+d114.htm#P113|ANDREWS|William /ANDREWS/||Isle of Wight Co., VA|||
+d127.htm#P132|AYCOCK|Mr /AYCOCK/||Warren Co., NC|||
+d94.htm#P118|AYCOCK|Susan /AYCOCK/||Warren Co., NC|||
+d34.htm#P36|BARROW|Robert /BARROW/|11 FEB 1763|Halifax Co., NC|29 MAY 1823||
+d217.htm#P222|BOBBITT|Harvey M. /BOBBITT/||Warren Co., NC|||
+d183.htm#P188|BOYKIN|John /BOYKIN/||Isle of Wight Co., VA|||
+d27.htm#P39|BRANTLEY| /BRANTLEY/|||||
+d228.htm#P230|BRYAN|Sallie /BRYAN/|||||
+d212.htm#P213|CHAMPION|William /CHAMPION/||Surry Co., VA|||
+d238.htm#P231|CHEEK|Augustus Alston /CHEEK/|MAR 1836|Warren Co., NC|ABT 1864||
+d238.htm#P234|CHEEK|Elizabeth Ann /CHEEK/||Warren Co., NC|ABT 1901||
+d238.htm#P237|CHEEK|James Augustus /CHEEK/|ABT 1810|Warren Co., NC|AFT 5 SEP 1862|Warren Co., NC|
+d238.htm#P236|CHEEK|Mary Coffield /CHEEK/|5 FEB 1838|Warren Co., NC|17 MAR 1925|Warren Co., NC|
+d238.htm#P233|CHEEK|Thomas Hinton /CHEEK/|1846|Warren Co., NC|ABT JUN 1863|Virginia|
+d238.htm#P232|CHEEK|William Ridley /CHEEK/|1843|Warren Co., NC|JUN 1868||
+d5.htm#P9|COFFIELD| /COFFIELD/|1746|Edgecombe Co., NC|BEF 10 MAR 1799|Edgecombe Co., NC|
+d180.htm#P178|CRAFFORD|Sarah /CRAFFORD/|1724|Surry Co., VA|||
+d76.htm#P75|CROCKER|Robert /CROCKER/|||||
+d229.htm#P229|DAVIS|Ann /DAVIS/||NC|||
+d211.htm#P211|DAVIS|Elizabeth Ann /DAVIS/|3 NOV 1823|Halifax Co., NC|||
+d240.htm#P2|DAVIS|Shugan J. /DAVIS/|BEF 1787|Warren Co., NC|AFT 1 MAR 1849|Halifax Co., NC|
+d143.htm#P89|DAWSON|Henry L. /DAWSON/||Northampton Co., NC|||
+d57.htm#P60|DEGGE|Francis /DEGGE/|||||
+d177.htm#P150|ELLIS|Elizabeth /ELLIS/|1707|Surry Co., VA|||
+d97.htm#P77|EMERSON|Jane /EMERSON/||NC|||
+d56.htm#P56|FORT|Allen /FORT/||Edgecombe Co., NC|||
+d42.htm#P48|FORT|Ann /FORT/||Edgecombe Co., NC|||
+d64.htm#P64|FORT|David /FORT/|||||
+d42.htm#P43|FORT|Elias /FORT/|1700|Surry Co., VA|1765|Halifax Co., NC|
+d44.htm#P44|FORT|Elias /FORT/||Edgecombe Co., NC|BEF MAY 1774|Halifax Co., NC|
+d57.htm#P57|FORT|Elias /FORT/||Edgecombe Co., NC|||
+d42.htm#P47|FORT|Jesse /FORT/||Edgecombe Co., NC|||
+d46.htm#P46|FORT|John /FORT/||Edgecombe Co., NC|||
+d42.htm#P51|FORT|Lucy /FORT/||Edgecombe Co., NC|||
+d42.htm#P50|FORT|Martha /FORT/||Edgecombe Co., NC|||
+d42.htm#P49|FORT|Mary /FORT/||Edgecombe Co., NC|||
+d212.htm#P212|FORT|Mary /FORT/||Edgecombe Co., NC|||
+d45.htm#P45|FORT|Micajah /FORT/|1734|Edgecombe Co., NC|1788||
+d55.htm#P55|FORT|Micajah /FORT/|||||
+d45.htm#P65|FORT|Nancy /FORT/|||||
+d45.htm#P63|FORT|Spier /FORT/|||||
+d45.htm#P62|FORT|William /FORT/||Edgecombe Co., NC|||
+d46.htm#P210|FORT|William /FORT/||Halifax Co., NC|||
+d182.htm#P116|GURLEY|Henry /GURLEY/||Southampton Co., VA|||
+d215.htm#P221|HARRIS|James /HARRIS/||Warren Co., NC|||
+d109.htm#P134|HARRIS|Martha /HARRIS/||Granville Co., NC|AFT 6 NOV 1797|Warren Co., NC|
+d55.htm#P58|HART|Anna /HART/|||||
+d169.htm#P102|HART|Sarah /HART/|1710|Surry Co., VA|||
+d24.htm#P30|HAYNES|Christopher /HAYNES/||NC|AFT 4 MAR 1797|Halifax Co., NC|
+d33.htm#P33|HAYNES|Lucy /HAYNES/||Halifax Co., NC|||
+d34.htm#P34|HAYNES|Mary /HAYNES/||NC|||
+d12.htm#P31|HOWELL|Sarah /HOWELL/||NC|BEF 1 JUN 1803|Halifax Co., NC|
+d211.htm#P226|JOHNSON|Benjamin /JOHNSON/||Halifax Co., NC|||
+d211.htm#P235|JOHNSON|Elizabeth Beaufort /JOHNSON/|||||
+d229.htm#P227|JOHNSON|Len /JOHNSON/|||||
+d136.htm#P93|JONES|Abigail /JONES/||Halifax Co., NC|||
+d172.htm#P128|KNIGHT|Archibald /KNIGHT/|10 JAN 1749/50|Surry Co., VA|||
+d172.htm#P137|KNIGHT|Charles /KNIGHT/|7 OCT 1742|Surry Co., VA|||
+d228.htm#P228|KNIGHT|James Coffield /KNIGHT/|1803|Edgecombe Co., NC|||
+d172.htm#P126|KNIGHT|John /KNIGHT/|17 SEP 1745|Surry Co., VA|||
+d240.htm#P1|KNIGHT|John Carter /KNIGHT/||Edgecombe Co., NC|MAY 1803|Edgecombe Co., NC|
+d172.htm#P129|KNIGHT|Sarah /KNIGHT/|19 JAN 1748/49|Surry Co., VA|||
+d172.htm#P168|KNIGHT|William /KNIGHT/||Surry Co., VA|||
+d148.htm#P80|LANCASTER|Aaron /LANCASTER/|1749|Surry Co., VA|||
+d109.htm#P104|LANCASTER|Abel /LANCASTER/|1782|Warren Co., NC|||
+d148.htm#P87|LANCASTER|Absolom /LANCASTER/|1746|Surry Co., VA|||
+d144.htm#P173|LANCASTER|Ann /LANCASTER/|11 SEP 1987|Surry Co., VA|||
+d83.htm#P83|LANCASTER|Ann Priscilla /LANCASTER/||Warren Co., NC|||
+d119.htm#P119|LANCASTER|Benjamin /LANCASTER/|1737|Surry Co., VA|BEF 21 DEC 1793|Edgecombe Co., NC|
+d119.htm#P120|LANCASTER|Benjamin /LANCASTER/|1765|Edgecombe Co., NC|||
+d107.htm#P107|LANCASTER|Clarissa /LANCASTER/|1781|Warren Co., NC|BEF AUG 1844|Warren Co., NC|
+d73.htm#P72|LANCASTER|Dela /LANCASTER/||Bute Co., NC|||
+d21.htm#P21|LANCASTER|Elizabeth /LANCASTER/|1684|Surry Co., VA|BEF 1731|Isle of Wight Co., VA|
+d3.htm#P111|LANCASTER|Elizabeth /LANCASTER/|1758|Surry Co., VA|||
+d146.htm#P124|LANCASTER|Elizabeth /LANCASTER/|1764|Bute Co., NC|||
+d71.htm#P141|LANCASTER|Elizabeth /LANCASTER/|1770|Bertie Co., NC|||
+d144.htm#P171|LANCASTER|Elizabeth /LANCASTER/|11 SEP 1987|Surry Co., VA|||
+d170.htm#P86|LANCASTER|Ethelred /LANCASTER/|1743|Surry Co., VA|||
+d146.htm#P125|LANCASTER|Hannah /LANCASTER/|1759|Surry Co., VA|||
+d109.htm#P106|LANCASTER|Harris /LANCASTER/|1789|Warren Co., NC|||
+d170.htm#P82|LANCASTER|James /LANCASTER/|1745|Surry Co., VA|||
+d109.htm#P96|LANCASTER|Jane /LANCASTER/|1785|Warren Co., NC|||
+d91.htm#P91|LANCASTER|Joel /LANCASTER/|1750|Surry Co., VA|BEF MAY 1828|Warren Co., NC|
+d91.htm#P121|LANCASTER|Joel /LANCASTER/||Warren Co., NC|||
+d79.htm#P79|LANCASTER|John /LANCASTER/|1753|Granville Co., NC|||
+d100.htm#P90|LANCASTER|John /LANCASTER/|1753|Surry Co., VA|||
+d146.htm#P146|LANCASTER|John /LANCASTER/|1724|Surry Co., VA|AFT 13 SEP 1812|Warren Co., NC|
+d170.htm#P170|LANCASTER|Joseph /LANCASTER/|1719|Surry Co., VA|AFT 8 SEP 1783|Southampton Co., VA|
+d73.htm#P73|LANCASTER|Larkin /LANCASTER/||Bute Co., NC|||
+d148.htm#P148|LANCASTER|Lawrence /LANCASTER/|1720|Surry Co., VA|AFT 27 JUN 1792|Warren Co., NC|
+d148.htm#P205|LANCASTER|Lawrence /LANCASTER/|22 JUL 1747|Surry Co., VA|AFT 2 FEB 1821|Warren Co., NC|
+d94.htm#P94|LANCASTER|Lemuel /LANCASTER/||Warren Co., NC|||
+d177.htm#P207|LANCASTER|Levi /LANCASTER/|22 APR 1739|Surry Co., VA|||
+d169.htm#P103|LANCASTER|Louisa /LANCASTER/|1744|Northampton Co., NC|||
+d91.htm#P122|LANCASTER|Lucas /LANCASTER/||Warren Co., NC|AFT 16 SEP 1870|Warren Co., NC|
+d78.htm#P78|LANCASTER|Lucy /LANCASTER/|1763|Granville Co., NC|||
+d100.htm#P100|LANCASTER|Martha /LANCASTER/|1756|Granville Co., NC|||
+d148.htm#P101|LANCASTER|Mary /LANCASTER/|1764|Bute Co., NC|||
+d172.htm#P172|LANCASTER|Mary /LANCASTER/|11 SEP 1987|Surry Co., VA|||
+d177.htm#P206|LANCASTER|Mary /LANCASTER/|14 MAR 1741/42|Surry Co., VA|||
+d71.htm#P71|LANCASTER|Micajah /LANCASTER/|1737|Surry Co., VA|||
+d130.htm#P130|LANCASTER|Miss /LANCASTER/||Warren Co., NC|||
+d109.htm#P109|LANCASTER|Moses /LANCASTER/|1754|Granville Co., NC|BEF NOV 1793|Warren Co., NC|
+d119.htm#P117|LANCASTER|Mrs Benjamin /LANCASTER/|1739|NC|||
+d146.htm#P92|LANCASTER|Mrs John /LANCASTER/|1726|Surry Co., VA|||
+d22.htm#P67|LANCASTER|Mrs Robert /LANCASTER/|1657|England|||
+d145.htm#P174|LANCASTER|Mrs Samuel /LANCASTER/|1680|Surry Co., VA|||
+d131.htm#P131|LANCASTER|Nancy /LANCASTER/|1766|Bute Co., NC|||
+d22.htm#P22|LANCASTER|Robert /LANCASTER/|1653|England|AFT 28 APR 1720|Isle of Wight Co., VA|
+d144.htm#P144|LANCASTER|Robert /LANCASTER/|1675|Surry Co., VA|AFT 12 NOV 1738|Surry Co., VA|
+d175.htm#P175|LANCASTER|Robert /LANCASTER/|1715|Surry Co., VA|||
+d3.htm#P3|LANCASTER|Samuel /LANCASTER/|1730|Surry Co., VA|1 AUG 1987||
+d85.htm#P85|LANCASTER|Samuel /LANCASTER/|1748|Surry Co., VA|||
+d145.htm#P145|LANCASTER|Samuel /LANCASTER/|1678|Surry Co., VA||Surry Co., VA|
+d177.htm#P177|LANCASTER|Samuel /LANCASTER/|1705|Surry Co., VA|BEF 11 FEB 1744/45|Surry Co., VA|
+d108.htm#P108|LANCASTER|Selah /LANCASTER/|1760|Granville Co., NC|||
+d3.htm#P110|LANCASTER|Silvia /LANCASTER/|1751|Surry Co., VA|11 SEP 1987|Isle of Wight Co., VA|
+d76.htm#P76|LANCASTER|Susannah /LANCASTER/|1762|Granville Co., NC|||
+d127.htm#P127|LANCASTER|Tabitha /LANCASTER/||Warren Co., NC|||
+d145.htm#P208|LANCASTER|Unity /LANCASTER/|1718|Surry Co., VA|||
+d109.htm#P95|LANCASTER|William /LANCASTER/|1787|Warren Co., NC|||
+d97.htm#P97|LANCASTER|William /LANCASTER/|1759|Granville Co., NC|||
+d169.htm#P169|LANCASTER|William /LANCASTER/|1706|Surry Co., VA|||
+d145.htm#P204|LANCASTER|William /LANCASTER/|1712|Surry Co., VA|BEF 11 OCT 1740|Surry Co., VA|
+d13.htm#P69|LITTLE|Elizabeth /LITTLE/|||||
+d7.htm#P98|LYNCH|Mary /LYNCH/|||15 APR 1843|Edgecombe Co., NC|
+d6.htm#P15|LYNCH|Thryza /LYNCH/||Edgecombe Co., NC|||
+d238.htm#P238|MARSHALL|Emily /MARSHALL/|1810|Edgecombe Co., NC|AFT 1868|Warren Co., NC|
+d240.htm#P239|MARSHALL|Jeremiah /MARSHALL/|1783|NC|BEF JUN 1811|Edgecombe Co., NC|
+d240.htm#P4|MARSHALL|Mary Penelope C. /MARSHALL/|1808|Edgecombe Co., NC|||
+d57.htm#P61|MORRIS|Elizabeth /MORRIS/|||||
+d157.htm#P166|MOUNGER|Amy /MOUNGER/||Isle of Wight Co., VA|AFT 9 NOV 1752||
+d83.htm#P133|NEAL|Mr /NEAL/||Warren Co., NC|||
+d33.htm#P35|NOBLIN|William /NOBLIN/|||AFT 14 JAN 1796|Halifax Co., NC|
+d79.htm#P99|OSHEAL|Apsley /OSHEAL/|1756|Granville Co., NC|||
+d107.htm#P220|PEGRAM| /PEGRAM/||Warren Co., NC|||
+d217.htm#P217|PEGRAM|Ann Eliza /PEGRAM/||Warren Co., NC|||
+d214.htm#P214|PEGRAM|Baker /PEGRAM/||Warren Co., NC|||
+d218.htm#P218|PEGRAM|Elizabeth J. /PEGRAM/||Warren Co., NC|||
+d107.htm#P138|PEGRAM|George /PEGRAM/||Warren Co., NC|BEF MAY 1832|Warren Co., NC|
+d107.htm#P216|PEGRAM|James J. /PEGRAM/||Warren Co., NC|BEF MAY 1855|Warren Co., NC|
+d215.htm#P215|PEGRAM|Martha /PEGRAM/||Warren Co., NC|||
+d219.htm#P219|PEGRAM|Nancy /PEGRAM/||Warren Co., NC|||
+d64.htm#P66|PERSONA|Patsy /PERSONA/|||||
+d194.htm#P202|PHILLIPS|John /PHILLIPS/||Halifax Co., NC|AFT 14 NOV 1803|Halifax Co., NC|
+d10.htm#P10|PITMAN|Ambrose /PITMAN/|1718|Surry Co., VA|AFT 20 MAR 1786|Halifax Co., NC|
+d27.htm#P27|PITMAN|Ann /PITMAN/|1752|Edgecombe Co., NC|||
+d21.htm#P152|PITMAN|Ann /PITMAN/|BEF 1720|Isle of Wight Co., VA|||
+d114.htm#P114|PITMAN|Anne /PITMAN/||Isle of Wight Co., VA|||
+d13.htm#P13|PITMAN|Arthur /PITMAN/|1757|Edgecombe Co., NC|AFT 2 JAN 1799|Halifax Co., NC|
+d21.htm#P155|PITMAN|Arthur /PITMAN/|1704|Surry Co., VA|BEF 28 APR 1746||
+d180.htm#P180|PITMAN|Arthur /PITMAN/||Isle of Wight Co., VA|BEF 11 JUL 1758|Southampton Co., VA|
+d5.htm#P8|PITMAN|Benjamin /PITMAN/|1780|Edgecombe Co., NC|||
+d136.htm#P136|PITMAN|Dempsey /PITMAN/||Halifax Co., NC|||
+d184.htm#P184|PITMAN|Dorcas /PITMAN/||Isle of Wight Co., VA|||
+d5.htm#P5|PITMAN|Elijah /PITMAN/|1745|Edgecombe Co., NC|AFT 10 MAR 1799|Edgecombe Co., NC|
+d12.htm#P12|PITMAN|Elisha /PITMAN/|1753|Edgecombe Co., NC|AFT 1 JUN 1803|Halifax Co., NC|
+d12.htm#P200|PITMAN|Elisha /PITMAN/||Halifax Co., NC|||
+d21.htm#P160|PITMAN|Elizabeth /PITMAN/|1712|Surry Co., VA|||
+d186.htm#P186|PITMAN|Elizabeth /PITMAN/||Isle of Wight Co., VA|||
+d12.htm#P198|PITMAN|Elizabeth /PITMAN/||Halifax Co., NC|||
+d240.htm#P240|PITMAN|Elizabeth /PITMAN/|1784|Edgecombe Co., NC|||
+d6.htm#P18|PITMAN|Emily /PITMAN/||NC|||
+d21.htm#P162|PITMAN|Faith /PITMAN/|1704|Surry Co., VA|||
+d10.htm#P29|PITMAN|Gilpha /PITMAN/|1759|Halifax Co., NC|AFT 12 MAR 1803|Halifax Co., NC|
+d7.htm#P7|PITMAN|Grisham Coffield /PITMAN/|1778|Edgecombe Co., NC|1 FEB 1853|Edgecombe Co., NC|
+d6.htm#P6|PITMAN|Harrison /PITMAN/|1773|Edgecombe Co., NC|20 MAY 1859|Edgecombe Co., NC|
+d6.htm#P16|PITMAN|Harrod /PITMAN/||NC|||
+d6.htm#P17|PITMAN|Henry /PITMAN/||NC|||
+d12.htm#P201|PITMAN|James /PITMAN/||Halifax Co., NC|||
+d14.htm#P14|PITMAN|John /PITMAN/|1751|Edgecombe Co., NC|AFT 2 JAN 1799|Halifax Co., NC|
+d21.htm#P154|PITMAN|John /PITMAN/|1702|Surry Co., VA|||
+d179.htm#P179|PITMAN|John /PITMAN/||Isle of Wight Co., VA|AFT 12 DEC 1780|Southampton Co., VA|
+d12.htm#P196|PITMAN|John /PITMAN/||Halifax Co., NC|||
+d158.htm#P158|PITMAN|Joseph /PITMAN/|1722|Isle of Wight Co., VA|||
+d158.htm#P192|PITMAN|Joseph /PITMAN/||Edgecombe Co., NC|||
+d21.htm#P151|PITMAN|Lettis /PITMAN/|BEF 1720|Isle of Wight Co., VA|||
+d153.htm#P164|PITMAN|Lot /PITMAN/||Isle of Wight Co., VA|||
+d24.htm#P24|PITMAN|Lucy /PITMAN/|1747|Edgecombe Co., NC|||
+d180.htm#P105|PITMAN|Lucy /PITMAN/||Isle of Wight Co., VA|||
+d21.htm#P161|PITMAN|Lucy /PITMAN/|1711|Surry Co., VA|||
+d12.htm#P197|PITMAN|Mary /PITMAN/||Halifax Co., NC|||
+d12.htm#P195|PITMAN|Mathew /PITMAN/||Halifax Co., NC|||
+d10.htm#P28|PITMAN|Miller /PITMAN/|1761|Halifax Co., NC|AFT 2 JAN 1799|Halifax Co., NC|
+d179.htm#P187|PITMAN|Mourning /PITMAN/||Southampton Co., VA|||
+d10.htm#P11|PITMAN|Mrs Ambrose /PITMAN/|1722|Virginia||Halifax Co., NC|
+d13.htm#P68|PITMAN|Mrs Arthur /PITMAN/|1759|NC|||
+d194.htm#P194|PITMAN|Nancy /PITMAN/||Halifax Co., NC|||
+d42.htm#P42|PITMAN|Olive /PITMAN/|1708|Surry Co., VA|BEF 1759|Edgecombe Co., NC|
+d7.htm#P115|PITMAN|Oliver /PITMAN/||Edgecombe Co., NC|SEP 1829|Edgecombe Co., NC|
+d6.htm#P19|PITMAN|Penelope /PITMAN/||NC|||
+d26.htm#P26|PITMAN|Phebe /PITMAN/|1756|Edgecombe Co., NC|||
+d21.htm#P159|PITMAN|Pratta /PITMAN/|1705|Surry Co., VA|||
+d182.htm#P182|PITMAN|Priscilla /PITMAN/||Southampton Co., VA|||
+d12.htm#P199|PITMAN|Sally /PITMAN/||Halifax Co., NC|||
+d157.htm#P157|PITMAN|Sampson /PITMAN/|ABT 1721|Isle of Wight Co., VA|||
+d21.htm#P156|PITMAN|Samuel /PITMAN/|1708|Surry Co., VA|||
+d14.htm#P41|PITMAN|Sarah /PITMAN/||Halifax Co., NC|||
+d143.htm#P143|PITMAN|Sarah /PITMAN/||Halifax Co., NC|||
+d183.htm#P183|PITMAN|Sarah /PITMAN/||Isle of Wight Co., VA|||
+d10.htm#P25|PITMAN|Selah /PITMAN/|1763|Halifax Co., NC|||
+d185.htm#P185|PITMAN|Susannah /PITMAN/||Isle of Wight Co., VA|||
+d12.htm#P193|PITMAN|Temperence /PITMAN/||Halifax Co., NC|||
+d21.htm#P20|PITMAN|Thomas /PITMAN/|1683|Surry Co., VA|1730|Isle of Wight Co., VA|
+d14.htm#P40|PITMAN|Thomas /PITMAN/||Halifax Co., NC|||
+d153.htm#P153|PITMAN|Thomas /PITMAN/|1704|Surry Co., VA|AFT 4 APR 1754|Edgecombe Co., NC|
+d153.htm#P165|PITMAN|Thomas /PITMAN/||Isle of Wight Co., VA|||
+d180.htm#P135|PITMAN|Winnifred /PITMAN/||Isle of Wight Co., VA|||
+d144.htm#P167|PITT|Judith /PITT/||Surry Co., VA|BEF 18 APR 1738|Surry Co., VA|
+d26.htm#P37|RAWLS| /RAWLS/|||||
+d44.htm#P52|RAWLS|Ann /RAWLS/|||||
+d130.htm#P81|RODWELL|Mr /RODWELL/||Warren Co., NC|||
+d219.htm#P224|ROOKER|Presley /ROOKER/||Warren Co., NC|||
+d27.htm#P38|SPIER| /SPIER/|||||
+d218.htm#P223|STALLINGS|William Plummer /STALLINGS/||Warren Co., NC|||
+d184.htm#P189|STEVENS| /STEVENS/||Isle of Wight Co., VA|||
+d185.htm#P190|TAYLOR| /TAYLOR/||Isle of Wight Co., VA|||
+d14.htm#P140|WHITEHEAD|Anne /WHITEHEAD/|1752|Edgecombe Co., NC|BEF 1792|Halifax Co., NC|
+d148.htm#P147|WILLIAMS|Mary /WILLIAMS/|1722|Surry Co., VA|||
+d131.htm#P84|WILLIAMS|Samuel /WILLIAMS/||NC|||
+d108.htm#P139|WILLIAMS|Samuel /WILLIAMS/||Bute Co., NC|||
+d186.htm#P203|WILLIAMSON|Matthew /WILLIAMSON/||Isle of Wight Co., VA|||
+d78.htm#P70|WILLIFORD|Britain /WILLIFORD/||Virginia|||
+d175.htm#P176|WOMBLE|Mary /WOMBLE/|1706|Isle of Wight Co., VA|||

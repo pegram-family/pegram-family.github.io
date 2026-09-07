@@ -1,0 +1,272 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Data</title>
+
+<style type="text/css">
+
+#dropmenudiv{
+position:absolute;
+border:1px solid navy;
+border-bottom-width: 0;
+font:normal 10px Verdana;
+line-height:18px;
+z-index:100;
+}
+
+#dropmenudiv a{
+width: 100%;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid black;
+padding: 1px 0;
+text-decoration: none;
+font-weight: bold;
+}
+
+#dropmenudiv a:hover{ /*hover background color*/
+background-color: white;
+}
+
+</style>
+
+<script type="text/javascript">
+
+/***********************************************
+* AnyLink Drop Down Menu- © Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//Contents for menu 1
+var menu1=new Array()
+menu1[0]='<a href="http://www.javascriptkit.com">JavaScript Kit</a>'
+menu1[1]='<a href="http://www.freewarejava.com">Freewarejava.com</a>'
+menu1[2]='<a href="http://codingforums.com">Coding Forums</a>'
+menu1[3]='<a href="http://www.cssdrive.com">CSS Drive</a>'
+
+var menu2=new Array()
+menu2[0]='<a href="http://www.javascriptkit.com">JavaScript Kit</a>'
+menu2[1]='<a href="http://www.freewarejava.com">Freewarejava.com</a>'
+menu2[2]='<a href="http://codingforums.com">Coding Forums</a>'
+menu2[3]='<a href="http://www.cssdrive.com">CSS Drive</a>'
+
+var menu3=new Array()
+menu3[0]='<a href="http://www.javascriptkit.com">JavaScript Kit</a>'
+menu3[1]='<a href="http://www.freewarejava.com">Freewarejava.com</a>'
+menu3[2]='<a href="http://codingforums.com">Coding Forums</a>'
+menu3[3]='<a href="http://www.cssdrive.com">CSS Drive</a>'
+
+		
+var menuwidth='165px' //default menu width
+var menubgcolor='white'  //menu bgcolor
+var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
+var hidemenu_onclick="yes" //hide menu when user clicks within menu?
+
+/////No further editting needed
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+if (ie4||ns6)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6)
+dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible
+else if (e.type=="click")
+obj.visibility=hidden
+}
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+}
+else{
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+}
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+if (ie4||ns6) return false
+else return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+
+</script>
+
+<style>
+BODY, TD {
+	font-family : Arial, Helvetica, sans-serif;
+		font-size : 9pt; color : #040675;
+	font-weight : 500
+}
+}
+
+H2, H3 {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 9pt; color="#040675"
+}
+<!--
+
+/*
+
+Text Link Underline Remover Script- 
+
+&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;copy; Dynamic Drive (www.dynamicdrive.com)
+
+For full source code, installation instructions,
+
+100's more DHTML scripts, and Terms Of
+
+Use, visit dynamicdrive.com
+
+*/
+
+a{text-decoration:none}
+
+//-->
+
+</style>
+
+<style fprolloverstyle>A:hover {color: #FF0000; font-size: 9pt;}
+</style>
+
+</head>
+
+<body background="111111" link="#040675" vlink="#040675" alink="#040675">
+
+&nbsp;<div align="center">
+	<table border="0" width="80%" id="table1" cellspacing="0" cellpadding="0" background="blue-tx.gif" height="20">
+	<tr>
+		<td width="12%" align="center">&nbsp;</td>
+		<td width="12%" align="center"><b>
+<a onClick="return clickreturnvalue()" onMouseover="dropdownmenu(this, event, menu1, '150px')" onMouseout="delayhidemenu()" href="default.htm">
+		<font color="#FFFFFF">Data</font></a><font color="#FFFFFF"> </font>
+		</b></td>
+		<td width="12%" align="center">&nbsp;</td>
+		<td width="12%" align="center"><b>
+		<a onClick="return clickreturnvalue()" onMouseover="dropdownmenu(this, event, menu2, '150px')" onMouseout="delayhidemenu()" href="default2.htm">
+		<font color="#FFFFFF">Cemetery</font></a></b></td>
+		<td width="12%" align="center">&nbsp;</td>
+		<td width="12%" align="center"><b><font color="#FFFFFF">&nbsp;</font><a onClick="return clickreturnvalue()" onMouseover="dropdownmenu(this, event, menu3, '150px')" onMouseout="delayhidemenu()" href="default3.htm"><font color="#FFFFFF"> Military</font></a><font color="#FFFFFF">
+		</font></b></td>
+		<td width="12%" align="center">&nbsp;</td>
+		<td width="12%" align="center"><font color="#FFFFFF">Home</font></td>
+	</tr>
+</table>
+
+
+</div>
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<blockquote>
+	<blockquote>
+		<blockquote>
+			<p>Link to original script:</p>
+			<p>
+			<a href="http://www.dynamicdrive.com/dynamicindex1/dropmenuindex.htm">
+			http://www.dynamicdrive.com/dynamicindex1/dropmenuindex.htm</a></p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+		</blockquote>
+	</blockquote>
+</blockquote>
+
+
+</body>
+
+</html>
