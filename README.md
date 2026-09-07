@@ -1,7 +1,7 @@
 # The Pegram Family Album
 
-An archive of the genealogy site that was published at pegram.family, preserved
-as it was served.
+An archive of the genealogy site that was published at www.pegram.family,
+preserved as it was served.
 
 `docs/` is a byte-for-byte snapshot taken on 2026-09-07: 4,725 files,
 150,897,468 bytes, unmodified from the origin. `docs/index.html` is the site
