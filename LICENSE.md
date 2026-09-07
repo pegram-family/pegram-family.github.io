@@ -6,17 +6,35 @@ grant one. Read this file as a statement of provenance and intent.
 
 ## Why this archive exists
 
-The Pegram Family Album was the work of **Nola Duffy**, who built and maintained
-it as its webmaster and author for many years. She was a close friend of mine,
-and she died on **September 8, 2014**. I am preserving this website according to
-her wishes.
+The Pegram Family Album was the work of **Nola Pegram Duffy** (31 January 1937
+&ndash; 8 September 2014), who built and maintained it as its webmaster and
+author for many years. Pegram was her own surname: this was her family, and the
+album is the record of her own line as much as anyone's. She was a close friend
+of mine, and I am preserving this website according to her wishes. She is buried
+at Alamance Memorial Park in Burlington, North Carolina; Find a Grave memorial
+#162260902.
 
-The site's own credits page describes what it was: a collaboration. It grew from
+She did not build it alone. The site's own footer names its owners:
+
+> ©1999 - 2010  N. Duffy, Winona Solomon and Pegram cousins across the country.
+
+**Winona Ott Solomon** (6 December 1944 – 4 May 2011) was Nola's cousin and
+collaborator, and the site calls her "probably the foremost authority on the
+descendants of Edward Pegram of Dinwiddie Co., Virginia" — adding that "without
+her constant help and encouragement, this web site would not exist." She
+researched the Pegram lines of North Carolina and Virginia from Mesa, Arizona,
+compiled the descendants of David Barrow Ferguson published here under her own
+copyright in 2005, and contributed the Hardaway material. She died three years
+before Nola, and eleven months after the site's last update. Her death is
+recorded by the NCGenWeb In Memoriam notice and by Find a Grave memorial
+#82036053.
+
+Beyond the two of them, the credits page describes a collaboration that grew from
 900 Pegram descendants to more than 33,000 linked descendants of George Pegram of
-Williamsburg, Virginia, assembled from the research of many contributors —
-Winona, Beth Bond, Jordan Kearney, Sherry Bell Garrison, and, in Nola's words,
-"many others, too numerous to list," who "contributed the data of their own
-family, photos and documents related to the Pegram family."
+Williamsburg, Virginia, drawing on Beth Bond, Jordan Kearney, Sherry Bell
+Garrison, and, in Nola's words, "many others, too numerous to list," who
+"contributed the data of their own family, photos and documents related to the
+Pegram family."
 
 ## Who holds rights
 
@@ -25,8 +43,12 @@ material and cannot license it to you.
 
 What is here is a mixture, and the parts have different owners:
 
-- **Nola's own writing** — page text, introductions, and commentary. Her estate
-  or heirs would hold whatever rights attach to it.
+- **The site itself**, whose footer claims copyright jointly for **Nola Duffy**,
+  **Winona Solomon**, and "Pegram cousins across the country." Both named holders
+  are now dead, so whatever rights attach to the page text, introductions, and
+  commentary would sit with their estates or heirs.
+- **Winona's own compilations**, some published here under a separate notice —
+  the descendants of David Barrow Ferguson carry "© 2005 by Winona Solomon."
 - **Research contributed by others.** Dozens of individuals sent in family data,
   photographs, documents, and correspondence over the site's lifetime. Those
   contributors, or their heirs, retain their own rights.

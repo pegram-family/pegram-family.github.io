@@ -11,6 +11,30 @@ root, and every path under `docs/` corresponds to a URL on the original site.
 frozen content — much of it hand-authored HTML from the late 1990s and 2000s,
 and reformatting it would be a loss.
 
+## Images not reachable from any page
+
+Of the 608 images in the site, **396 are linked from a page and 212 are not**.
+The orphans are still here, at their original paths, and this repository is the
+only place they survive: an image no page embeds is never pulled in as a page
+resource, so web crawlers archiving the site by following its links never saw
+them.
+
+Some are ordinary furniture -- backgrounds, buttons from a long-dead search
+engine, a Paint Shop Pro browse cache. Many are not. Among them:
+
+    images/duffy.jpeg          Leonard Duffy, Nola's husband, in uniform
+    images/duffy2.jpeg         Leonard Duffy, some thirty years later
+    marriages/wap-ml1.jpeg     marriage licence scans
+    marriages/wap-ml2.jpeg
+    simmons/c10-50.jpg ...     eight large document scans
+    photos/                    forty unlinked photographs
+    1850wc/, census/           census page images
+
+Whether Nola uploaded these ahead of pages she never finished, or the pages that
+showed them were lost before the site was captured, is not recoverable now.
+Neither the Wayback Machine's index nor the site's own URL list has any record of
+a page that displayed the two photographs of her husband.
+
 ## Rights
 
 See [LICENSE.md](LICENSE.md). This archive is not open-source licensed and no
