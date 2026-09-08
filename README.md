@@ -33,7 +33,9 @@ engine, a Paint Shop Pro browse cache. Many are not. Among them:
 Whether Nola uploaded these ahead of pages she never finished, or the pages that
 showed them were lost before the site was captured, is not recoverable now.
 Neither the Wayback Machine's index nor the site's own URL list has any record of
-a page that displayed the two photographs of her husband.
+a page that displayed the two photographs of her husband. They are now linked
+from `docs/contact.html`, beside the one known photograph of Nola herself --
+which is the portrait etched on her grave marker, alongside his.
 
 ## Rights
 

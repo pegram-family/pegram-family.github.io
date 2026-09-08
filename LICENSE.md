@@ -52,6 +52,11 @@ What is here is a mixture, and the parts have different owners:
 - **Research contributed by others.** Dozens of individuals sent in family data,
   photographs, documents, and correspondence over the site's lifetime. Those
   contributors, or their heirs, retain their own rights.
+- **The photograph of Nola's grave marker** on the contact page, by **Lee Ann
+  Brafford Brumble**, who took it on 7 May 2016 and published it to Find a Grave
+  memorial #162260902. She holds its copyright, asserts it in the image itself,
+  and gave permission on 7 September 2026 for its use here: "Please feel free to
+  use any of my photos. That's why I volunteer." It is reproduced unaltered.
 - **Third-party material used with permission.** Essays by John Steele Gordon
   are marked "Copyright (c) 1999. Used by permission." Abstracts of the Warren
   County, North Carolina will books are drawn from the work of **Mary Hinton
